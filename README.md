@@ -126,3 +126,13 @@ Synthetic Monitoring → Monitors → <your monitor> → Uptime / Latency / Aler
  
 ## Example result in the UI
  ![alt text](image.png)
+
+
+ additionals links : 
+
+ [official docs of New Relic](https://github.com/newrelic/docs-website/blob/develop/src/content/docs/synthetics/synthetic-monitoring/private-locations/install-job-manager.mdx)
+ 
+
+ [Good blog post about New relics and its benefits](https://github.com/newrelic/docs-website/blob/develop/src/content/docs/synthetics/synthetic-monitoring/private-locations/install-job-manager.mdx)
+
+ 
