@@ -131,6 +131,8 @@ Synthetic Monitoring → Monitors → <your monitor> → Uptime / Latency / Aler
  additionals links : 
 
  [official docs of New Relic](https://github.com/newrelic/docs-website/blob/develop/src/content/docs/synthetics/synthetic-monitoring/private-locations/install-job-manager.mdx)
+
+ 
  
 
  [Good blog post about New relics and its benefits](https://github.com/newrelic/docs-website/blob/develop/src/content/docs/synthetics/synthetic-monitoring/private-locations/install-job-manager.mdx)
