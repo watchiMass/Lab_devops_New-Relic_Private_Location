@@ -137,6 +137,6 @@ Synthetic Monitoring → Monitors → <your monitor> → Uptime / Latency / Aler
 
  [Good blog post about New relics and its benefits](https://eadoz.com/how-to-get-synthetics-monitoring-to-work-in-new-relic/)
 
- [Install new relic agent in docker and docker compose](https://docs.newrelic.com/docs/infrastructure/infrastructure-agent/linux-installation/infra-agent-as-container/)
+ [Install new relic agent in docker compose](https://docs.newrelic.com/docs/infrastructure/infrastructure-agent/linux-installation/infra-agent-as-container/)
  
  
